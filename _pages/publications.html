@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+<h2>Arxiv</h2>
+<hr/>
+{% for post in site.publications reversed %}
+  {% if post.category == 'arxiv' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 <h2>Preprints</h2>
 <hr/>
 {% for post in site.publications reversed %}
