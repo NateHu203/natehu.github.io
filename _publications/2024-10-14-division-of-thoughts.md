@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2024-division-of-thoughts
 excerpt: 'We propose a novel collaborative reasoning framework that optimizes the synergy between edge-deployed small language models and cloud-based large language models, significantly reducing costs while maintaining performance.'
-date: 2024-03-01
+date: 2024-10-14
 venue: 'Preprint'
 paperurl: 'TBD'
 citation: 'Citation details pending.'
