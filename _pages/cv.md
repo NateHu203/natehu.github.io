@@ -101,6 +101,4 @@ Languages
 Honors & Awards
 ======
 * Dean's List of Emory College of Arts and Sciences
-* Mary Taylor Clark Award
-* American Mathematics Competitions 12
-* Physics Award (High School)
+
