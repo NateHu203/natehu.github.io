@@ -28,15 +28,6 @@ I've had the chance to apply my data skills in some interesting real-world scena
 * **HireBeat Inc.** - Predicted employment trends using big data
 * **Chinese American Chamber of Commerce** - Used data to bridge policy and community needs
 
-Leadership & Community Impact
-======
-I believe technology should serve a greater purpose:
-
-* Teaching blockchain basics to curious minds at EmoryDAO
-* Co-founded an alliance that raised $1500+ for frontline workers during COVID-19
-* Helping break down language barriers in education through COVE
-* Using data to advocate for AAPI community needs
-
 Technical Toolkit
 ======
 My favorite tools for turning ideas into reality:
