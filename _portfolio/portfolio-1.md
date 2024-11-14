@@ -5,7 +5,7 @@ collection: posts
 date: 2024-03-14
 tags:
   - Paper Review
-  - LLM
+  - LLM 
   - Task Planning
   - Research
 ---
@@ -32,7 +32,6 @@ The system cleverly splits responsibilities between:
 - Implements AND-OR compositional logic for task relationships
 
 ## Why It Matters
-
 Traditional task planning faces several challenges:
 - Over-decomposition of simple tasks wastes resources
 - Under-decomposition of complex tasks leads to failures
