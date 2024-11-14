@@ -5,10 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<div class="archive">
-  {% raw %}{% include base_path %}
-  
-  {% for post in site.portfolio %}
-    {% include archive-single.html %}
-  {% endfor %}{% endraw %}
-</div>
+{% raw %}{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}{% endraw %}
