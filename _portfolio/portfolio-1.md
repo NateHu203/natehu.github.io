@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Paper Overview
-[ADaPT: As-Needed Decomposition and Planning with Language Models](https://arxiv.org/abs/2311.0577) introduces an elegant solution to one of the key challenges in LLM task execution: knowing when and how to break down complex tasks. Unlike traditional approaches that either decompose everything or nothing, ADaPT takes a more nuanced, human-like approach.
+[Paper Review: ADaPT: As-Needed Decomposition and Planning with Language Models](https://arxiv.org/abs/2311.0577) introduces an elegant solution to one of the key challenges in LLM task execution: knowing when and how to break down complex tasks. Unlike traditional approaches that either decompose everything or nothing, ADaPT takes a more nuanced, human-like approach.
 
 ## Key Innovations
 
