@@ -45,6 +45,4 @@ I love working on projects that:
 * Help communities make better decisions through data
 * Bridge the gap between technical solutions and real-world impact
 
-When I'm not coding or analyzing data, you'll probably find me serving aces on the tennis court, shooting hoops, or tickling the ivory keys of a piano. I'm always up for interesting conversations about data, tech, or how we can use both to make the world a bit better.
 
-Want to collaborate on something cool? Drop me a line!
