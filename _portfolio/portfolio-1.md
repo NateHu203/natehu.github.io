@@ -1,13 +1,11 @@
 ---
 title: "Paper Review: ADaPT: Dynamic Task Decomposition for Language Models"
 excerpt: "A deep dive into ADaPT's innovative approach to task planning and decomposition with LLMs"
-collection: posts
-date: 2024-03-14
-tags:
-  - Paper Review
-  - LLM 
-  - Task Planning
-  - Research
+header:
+  teaser: /assets/images/adapt_flow.png
+  image: /assets/images/adapt_flow.png
+collection: portfolio
+permalink: /portfolio/adapt-paper-review/
 ---
 
 ## Paper Overview
