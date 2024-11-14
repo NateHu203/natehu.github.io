@@ -35,7 +35,7 @@ My favorite tools for turning ideas into reality:
 * **Programming**: Python, Java, SQL
 * **Data Analysis**: Natural Language Processing, Statistical Modeling, Data Mining
 * **Visualization**: PowerBI, Tableau
-* **Languages**: English and Mandarin (because sometimes the best insights come in different languages)
+* **Languages**: English and Mandarin 
 
 What Gets Me Excited
 ======
