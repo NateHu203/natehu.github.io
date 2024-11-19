@@ -51,7 +51,7 @@ My current research focuses on:
 I'm always interested in collaborating on research projects or discussing ideas in:
 - Data Science
 - Machine Learning
-- Climate Change Analysis
+- AI & LLMs
 - Cultural Analytics
 
 Feel free to reach out through:
