@@ -28,10 +28,6 @@ My current research focuses on:
 3. Large Language Model Reasoning
 4. Human Mobility Studies
 ## Getting Around
-### Quick Links
-- 📚 [Publications](/publications/): Browse my academic publications
-- 📝 [Blog](/portfolio/): Read my latest thoughts and analyses
-- 📄 [CV](/cv/): View my academic and professional background
 ### Featured Content
 - Latest research on LLM reasoning frameworks
 - Analysis of climate change patterns
@@ -45,9 +41,7 @@ I'm always interested in collaborating on research projects or discussing ideas 
 - Cultural Analytics
 Feel free to reach out through:
 - 📧 Email: nate.hu@emory.edu
-- 🔬 [Google Scholar](https://scholar.google.com/citations?user=v-W5zIYAAAAJ)
-- 💻 [GitHub](https://github.com/NateHu203)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/xinyuanhu03204)
+- 📱 Phone: +1 (434)-227-1447
 ## Site Updates
 This website is regularly updated with new:
 - Research findings and publications
