@@ -1,70 +1,74 @@
 ---
 permalink: /markdown/
-title: "About This Site"
+title: "Site Overview"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-# Welcome to My Academic Website
+# Welcome to My Research Hub
 
-This website serves as a digital portfolio of my academic work, research interests, and professional journey. Here you'll find information about my publications, research projects, and thoughts on data science and AI.
+## Content Overview
 
-## What You'll Find Here
+### Research Library
+My academic work is organized into several categories:
+- **Journal Publications**: Peer-reviewed research work
+- **Preprint Articles**: Latest research under review
+- **Conference Papers**: Academic presentations and proceedings
+- **ArXiv Submissions**: Early research access
 
-### Publications and Research
-- **Journal Articles**: My published work in peer-reviewed journals
-- **Preprints**: Latest research currently under review
-- **Conference Papers**: Presentations and proceedings from academic conferences
-- **ArXiv Submissions**: Early access to my research findings
+### Research Focus Areas
+Current investigations span:
+- Cultural Evolution & Language Analytics
+- Climate Change Data Analysis
+- Large Language Model Development
+- Human Mobility Pattern Studies
 
-### Blog Posts
-I regularly write about:
-- Data science trends and innovations
-- AI and machine learning developments
-- Research methodology and insights
-- Climate change and social impact analysis
+### Blog & Updates
+Regular posts covering:
+- Innovations in Data Science & AI
+- Machine Learning Applications
+- Research Methods & Insights
+- Environmental Data Analysis
+- Social Impact Studies
 
-### Research Areas
-My current research focuses on:
-1. Cultural Analytics and Language Evolution
-2. Climate Change Pattern Analysis
-3. Large Language Model Reasoning
-4. Human Mobility Studies
+## Navigation Guide
 
-## Getting Around
+### Main Sections
+Find what you need:
+- 📚 **Publications** `/publications/`: Complete research collection
+- 📝 **Blog** `/portfolio/`: Latest analyses and insights
+- 📄 **CV** `/cv/`: Academic and professional history
 
-### Quick Links
-- 📚 [Publications](/publications/): Browse my academic publications
-- 📝 [Blog](/portfolio/): Read my latest thoughts and analyses
-- 📄 [CV](/cv/): View my academic and professional background
+### Featured Research
+Current highlights:
+- LLM Reasoning Framework Development
+- Climate Pattern Analysis
+- COVID-19 Mobility Studies
+- Cultural Evolution Research
 
-### Featured Content
-- Latest research on LLM reasoning frameworks
-- Analysis of climate change patterns
-- Studies on human mobility during COVID-19
-- Insights into cultural evolution through data
+## Collaboration Interests
+Open to discussions about:
+- Data Science Applications
+- Machine Learning Innovation
+- AI & LLM Development
+- Cultural Analytics Projects
 
-## Connect With Me
-
-I'm always interested in collaborating on research projects or discussing ideas in:
-- Data Science
-- Machine Learning
-- AI & LLMs
-- Cultural Analytics
-
-Feel free to reach out through:
+## Connect
+Reach out through:
 - 📧 Email: nate.hu@emory.edu
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=v-W5zIYAAAAJ)
 - 💻 [GitHub](https://github.com/NateHu203)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/xinyuanhu03204)
 
-## Site Updates
-This website is regularly updated with new:
-- Research findings and publications
-- Blog posts on current projects
-- Updates on ongoing research
-- Academic and professional achievements
+## Regular Updates
+The site features new:
+- Research Publications
+- Project Updates
+- Blog Posts
+- Academic Achievements
 
-Thank you for visiting! I hope you find the content here useful and interesting.
+---
+
+*This research hub is updated regularly with new findings and insights. Feel free to explore and reach out for collaboration opportunities.*
