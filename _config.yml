@@ -228,6 +228,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  markdown:
+    output: true
+    permalink: /:collection/:path/  
 
 
 # These settings control how pages and collections are included in the site
@@ -283,6 +286,13 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: markdown
+    values:
+      layout: markdown
       author_profile: true
       share: true
 
